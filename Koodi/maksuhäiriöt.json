@@ -1,0 +1,24 @@
+{
+    "asiakas": [
+        {
+            "etunimi": "Markus",
+            "sukunimi": "Jalava",
+            "maksuhäiriöt": 1
+        },
+        {
+            "etunimi": "Karl",
+            "sukunimi": "Quinto",
+            "maksuhäiriöt": 1
+        },
+        {
+            "etunimi": "Vitalii",
+            "sukunimi": "Sokha",
+            "maksuhäiriöt": 1
+        },
+        {
+            "etunimi": "Tuomas",
+            "sukunimi": "Kivinen",
+            "maksuhäiriöt": 1
+        }
+    ]
+}

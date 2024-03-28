@@ -1,0 +1,59 @@
+body {
+    background-color: #f0f0f0;
+    background-image: url("https://cdn.nimbusthemes.com/2017/09/09233410/Free-Nature-Backgrounds-Nature-Bison-by-Burst-1024x683.jpg"); /* Kuva löytyi tältä sivulta: https://www.nimbusthemes.com/15-of-the-very-best-free-nature-backgrounds-for-use-on-your-website/ */
+}
+
+#nav {
+    background-color: lightskyblue;
+    width: 90%;
+    border: 5px solid black;
+    padding: 1%;
+    margin: 0%;
+    height: 5%;
+    margin-top: 3%;
+    text-align: center;
+    margin-bottom: 1%;
+    border-radius: 15px;
+}
+
+#lomake {
+    text-align: center;
+}
+
+#sivu {
+    display: grid;
+    place-items: center;
+    margin-top: 5%;
+    background-color: lightskyblue;
+  }
+
+#sivu {
+    width: 90%;
+    border: 5px solid black;
+    padding: 1%;
+    margin: 0%;
+    height: 50%;
+    border-radius: 15px;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+input[type="submit"] {
+    background-color: #4266d4;
+    color: white;
+    border: none;
+    padding: 12px;
+    cursor: pointer;
+}
+
+
+input[type="submit"]:hover {
+    background-color: #3452a1;
+}  
+

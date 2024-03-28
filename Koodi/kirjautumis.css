@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+  background-image: url("https://cdn.nimbusthemes.com/2017/09/09233338/Free-Nature-Backgrounds-Sunset-by-Pixabay.jpg"); /* Kuva löytyi tältä sivulta: https://www.nimbusthemes.com/15-of-the-very-best-free-nature-backgrounds-for-use-on-your-website/ */
+}
+
+#sivu {
+  display: grid;
+  place-items: center;
+  margin-top: 5%;
+}
+
+#lomake {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+
+input[type="submit"] {
+  width: 100%;
+  background-color: #5882fa;
+  color: #fff;
+  border: none;
+  padding: 12px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #4266d4;
+}
